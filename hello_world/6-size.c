@@ -3,7 +3,7 @@
  * Auth: bijoe1986
  */
 
-#include <stdio.4h>
+#include <stdio.h>
 
 /**
  * main - is the priority function for inserting function types on
