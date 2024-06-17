@@ -1,8 +1,3 @@
-/*
- * File: 6-size.c
- * Auth: bijoe1986
- */
-
 #include <stdio.h>
 
 /**
