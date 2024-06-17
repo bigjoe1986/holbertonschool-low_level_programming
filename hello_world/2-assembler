@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc $CFILE -S
+gcc -S $C_FILE -o ${C_FILE%.c}.s
 
